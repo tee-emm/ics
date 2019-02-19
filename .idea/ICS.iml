@@ -10,13 +10,13 @@
       <sourceFolder url="file://$MODULE_DIR$/HangEntity2/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Methods2/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MethodsAssign/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Muir, Thomass – ICS3U – String Manipulation Assignment/String Manipulation Assignment (Muir, T)/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Muir_Thomass_Sqrt/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/NumWords/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/NumWords2/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/String Manipulation Assignment (Muir, T)/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/StuMarks/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Unit 2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Unit 1 Practice/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/LicensePlateDatabase/src" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
